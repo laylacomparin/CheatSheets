@@ -2,7 +2,7 @@
 
 Seguindo o dicionário Cheat quer dizer fraude, engano, trapacear, colar e Sheet é folha impressa, jornal, folhas. Juntando tudo é uma Folha de Cola, uma cola para alguma prova, exame.
 
-E é nesse conceito que a Cheat Sheet funciona, juntar o máximo de informações em apenas uma página para que seja fácil consultar quando você precisar.
+E é nesse conceito que a Cheatsheet funciona, juntar o máximo de informações em apenas uma página para que seja fácil consultar quando você precisar.
 
 *Este repositório foi feito para a comunidade. Caso tenha algum Cheatsheets para contribuir, fique a vontade para fazer um pull request.*
 
