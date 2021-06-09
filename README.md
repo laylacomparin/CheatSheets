@@ -19,6 +19,7 @@ Data For Everyone! 🎲
   * [Stats and Probability](#statsandprob)
   * [Big Data](#bigdata)
   * [Machine Learning](#machinelearning) 
+  * [Ferramentas e Utilitários](#ferramentaseutilitarios) 
 --------------------------------------------------
 <h2 id="programminglanguages">Programming Languages</h2>
 
@@ -86,6 +87,13 @@ Data For Everyone! 🎲
 | [Statistics](https://github.com/laylacomparin/CheatSheets/blob/main/Stats%20and%20Probability/Statistics%20Cheatsheet.pdf) | Stats |
 | [Probability](https://github.com/laylacomparin/CheatSheets/blob/main/Stats%20and%20Probability/Probability%20Cheatsheet.pdf), [Probability v2](https://github.com/laylacomparin/CheatSheets/blob/main/Stats%20and%20Probability/Probability%20Cheatsheet%20v2.pdf) | Probability |
 
+<h2 id="statsandprob">Stats and Probability</h2>
+
+| Cheatsheet | Category | 
+| ----------- | ----------- | 
+| [Statistics](https://github.com/laylacomparin/CheatSheets/blob/main/Stats%20and%20Probability/Statistics%20Cheatsheet.pdf) | Stats |
+| [Probability](https://github.com/laylacomparin/CheatSheets/blob/main/Stats%20and%20Probability/Probability%20Cheatsheet.pdf), [Probability v2](https://github.com/laylacomparin/CheatSheets/blob/main/Stats%20and%20Probability/Probability%20Cheatsheet%20v2.pdf) | Probability |
+
 <h2 id="bigdata">Big Data</h2>
 
 | Cheatsheet | Category | 
@@ -95,10 +103,9 @@ Data For Everyone! 🎲
 | [Hive Functions](https://github.com/laylacomparin/CheatSheets/blob/main/Big%20Data/Hive%20Functions%20Cheatsheet.pdf) | Big Data |
 | [SQL to Hive](https://github.com/laylacomparin/CheatSheets/blob/main/Big%20Data/SQL%20to%20Hive%20Cheatsheet.pdf) | Big Data |
 
-<h2 id="machinelearning">Machine Learning</h2>
+<h2 id="ferramentaseutilitarios">Ferramentas e Utilitários</h2>
 
 | Cheatsheet | Category | 
 | ----------- | ----------- | 
-| [Python & R codes for common Machine Learning Algorithms](https://github.com/laylacomparin/CheatSheets/blob/main/Machine%20Learning/Python%20%26%20R%20codes%20for%20common%20Machine%20Learning%20Algorithms%20Cheatsheet.webp) | Machine Learning |
-| [Microsoft Azure Machine Learning Algorithm](https://github.com/laylacomparin/CheatSheets/blob/main/Machine%20Learning/Microsoft%20Azure%20Machine%20Learning%20Algorithm%20Cheatsheet.pdf) | Machine Learning |
+| [Regex](https://github.com/laylacomparin/CheatSheets/blob/main/Ferramentas%20e%20Utilit%C3%A1rios/Regex.png) | Regex |
 
