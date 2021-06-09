@@ -28,6 +28,7 @@ Data For Everyone! 🎲
 | ----------- | ----------- | 
 | [PythonBasics](https://github.com/laylacomparin/CheatSheets/blob/main/Python/PythonBasics%20Cheatsheet.pdf) | Just The Basics |
 | [Data Visualization](https://github.com/laylacomparin/CheatSheets/blob/main/Python/Data%20Visualisation%20Cheatsheet.jpg) | Just The Basics |
+| [Python 3](https://github.com/laylacomparin/CheatSheets/blob/main/Python/Python%203%20Cheat%20Sheet.pdf) | Just The Basics |
 | [Boke](https://github.com/laylacomparin/CheatSheets/blob/main/Python/Bokeh%20Cheatsheet.pdf)  | Data Science |
 | [Jupyter Notebook](https://github.com/laylacomparin/CheatSheets/blob/main/Python/Jupyter%20Notebook%20Cheatsheet.pdf) | Data Science |
 | [Keras](https://github.com/laylacomparin/CheatSheets/blob/main/Python/Keras%20Cheatsheet.pdf) | Data Science |
@@ -67,5 +68,37 @@ Data For Everyone! 🎲
 | [Shiny](https://github.com/laylacomparin/CheatSheets/blob/main/R/Shiny%20Cheatsheet.pdf) | Web Apps |
 | [R Markdown](https://github.com/laylacomparin/CheatSheets/blob/main/R/R%20Markdown%20Cheatsheet.pdf) | Linguagem Simples de Marcação |
 
+<h2 id="databases">Databases</h2>
 
+| Cheatsheet | Category | 
+| ----------- | ----------- | 
+| [Neo4j Graph Database Platform](https://github.com/laylacomparin/CheatSheets/blob/main/Databases/Neo4j%20Graph%20Database%20Platform%20-%20CheatSheet%20v1.pdf), [Neo4j Graph Database Platform v2](https://github.com/laylacomparin/CheatSheets/blob/main/Databases/Neo4j%20Graph%20Database%20Platform%20-%20CheatSheet%20v2.pdf) | Databases |
+| [Postgresql](https://github.com/laylacomparin/CheatSheets/blob/main/Databases/Postgresql%20Cheatsheet.pdf) | Databases |
+| [Redis](https://github.com/laylacomparin/CheatSheets/blob/main/Databases/Redis%20CheatSheet.pdf) | Databases |
+| [MongoDB](https://github.com/laylacomparin/CheatSheets/blob/main/Databases/MongoDB%20CheatSheet.pdf) | Databases |
+| [SQL](https://github.com/laylacomparin/CheatSheets/blob/main/Databases/SQL%20CheatSheet.pdf) | Databases |
+| [Git](https://github.com/laylacomparin/CheatSheets/blob/main/Databases/Git%20CheatSheet.pdf) | Version Control |
+
+<h2 id="statsandprob">Stats and Probability</h2>
+
+| Cheatsheet | Category | 
+| ----------- | ----------- | 
+| [Statistics](https://github.com/laylacomparin/CheatSheets/blob/main/Stats%20and%20Probability/Statistics%20Cheatsheet.pdf) | Stats |
+| [Probability](https://github.com/laylacomparin/CheatSheets/blob/main/Stats%20and%20Probability/Probability%20Cheatsheet.pdf), [Probability v2](https://github.com/laylacomparin/CheatSheets/blob/main/Stats%20and%20Probability/Probability%20Cheatsheet%20v2.pdf) | Probability |
+
+<h2 id="bigdata">Big Data</h2>
+
+| Cheatsheet | Category | 
+| ----------- | ----------- | 
+| [Hadoop HDFS](https://github.com/laylacomparin/CheatSheets/blob/main/Big%20Data/Hadoop%20HDFS%20Command%20Cheatsheet.pdf),[Hadoop HDFS v2](https://github.com/laylacomparin/CheatSheets/blob/main/Big%20Data/Hadoop%20HDFS%20Command%20Cheatsheet%20v2.pdf)  | Big Data |
+| [Hadoop HDFS]() | Big Data |
+| [Hive Functions](https://github.com/laylacomparin/CheatSheets/blob/main/Big%20Data/Hive%20Functions%20Cheatsheet.pdf) | Big Data |
+| [SQL to Hive](https://github.com/laylacomparin/CheatSheets/blob/main/Big%20Data/SQL%20to%20Hive%20Cheatsheet.pdf) | Big Data |
+
+<h2 id="machinelearning">Machine Learning</h2>
+
+| Cheatsheet | Category | 
+| ----------- | ----------- | 
+| [Python & R codes for common Machine Learning Algorithms](https://github.com/laylacomparin/CheatSheets/blob/main/Machine%20Learning/Python%20%26%20R%20codes%20for%20common%20Machine%20Learning%20Algorithms%20Cheatsheet.webp) | Machine Learning |
+| [Microsoft Azure Machine Learning Algorithm](https://github.com/laylacomparin/CheatSheets/blob/main/Machine%20Learning/Microsoft%20Azure%20Machine%20Learning%20Algorithm%20Cheatsheet.pdf) | Machine Learning |
 
