@@ -1,4 +1,4 @@
-# Cheatsheets [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Cheatsheets [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [.](#cheatsheets)
 
 Seguindo o dicionário Cheat quer dizer fraude, engano, trapacear, colar e Sheet é folha impressa, jornal, folhas. Juntando tudo é uma Folha de Cola, uma cola para alguma prova, exame.
 
