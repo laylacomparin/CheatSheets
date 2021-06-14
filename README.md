@@ -108,4 +108,5 @@ Data For Everyone! 🎲
 | Cheatsheet | Category | 
 | ----------- | ----------- | 
 | [Regex](https://github.com/laylacomparin/CheatSheets/blob/main/Ferramentas%20e%20Utilit%C3%A1rios/Regex.png) | Regex |
+| [Tmux](https://github.com/laylacomparin/CheatSheets/blob/main/Ferramentas%20e%20Utilit%C3%A1rios/tmuxcheatsheet.png) | Linux |
 
