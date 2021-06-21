@@ -16,6 +16,7 @@ Data For Everyone! 🎲
     * [Python](#python)
     * [R](#r)
   * [Databases](#databases)
+  * [DataViz](#dataviz)
   * [Stats and Probability](#statsandprob)
   * [Big Data](#bigdata)
   * [Machine Learning](#machinelearning) 
@@ -79,6 +80,12 @@ Data For Everyone! 🎲
 | [MongoDB](https://github.com/laylacomparin/CheatSheets/blob/main/Databases/MongoDB%20CheatSheet.pdf) | Databases |
 | [SQL](https://github.com/laylacomparin/CheatSheets/blob/main/Databases/SQL%20CheatSheet.pdf) | Databases |
 | [Git](https://github.com/laylacomparin/CheatSheets/blob/main/Databases/Git%20CheatSheet.pdf) | Version Control |
+
+<h2 id="dataviz">DataViz</h2>
+
+| Cheatsheet | Category | 
+| ----------- | ----------- | 
+| [Visual References](https://github.com/laylacomparin/CheatSheets/tree/main/DataViz) | Power BI |
 
 <h2 id="statsandprob">Stats and Probability</h2>
 
