@@ -94,13 +94,6 @@ Data For Everyone! 🎲
 | [Statistics](https://github.com/laylacomparin/CheatSheets/blob/main/Stats%20and%20Probability/Statistics%20Cheatsheet.pdf) | Stats |
 | [Probability](https://github.com/laylacomparin/CheatSheets/blob/main/Stats%20and%20Probability/Probability%20Cheatsheet.pdf), [Probability v2](https://github.com/laylacomparin/CheatSheets/blob/main/Stats%20and%20Probability/Probability%20Cheatsheet%20v2.pdf) | Probability |
 
-<h2 id="statsandprob">Stats and Probability</h2>
-
-| Cheatsheet | Category | 
-| ----------- | ----------- | 
-| [Statistics](https://github.com/laylacomparin/CheatSheets/blob/main/Stats%20and%20Probability/Statistics%20Cheatsheet.pdf) | Stats |
-| [Probability](https://github.com/laylacomparin/CheatSheets/blob/main/Stats%20and%20Probability/Probability%20Cheatsheet.pdf), [Probability v2](https://github.com/laylacomparin/CheatSheets/blob/main/Stats%20and%20Probability/Probability%20Cheatsheet%20v2.pdf) | Probability |
-
 <h2 id="bigdata">Big Data</h2>
 
 | Cheatsheet | Category | 
